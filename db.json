@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "json_1": {
+    "name": "json1",
+    "code": {
+      "desc":"desc"
+    }
   }
 }
